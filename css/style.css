@@ -6,3 +6,13 @@ body{
     overflow-x: hidden;
     position: relative;
   }
+.bg-color {
+  background-color: #EC407A;
+}
+
+#Home {
+  background-color: #EC407A;
+  color: #ffffff;
+  background-size: cover;
+  /* height: 100vh; */
+}
