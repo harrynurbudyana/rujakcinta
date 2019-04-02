@@ -58,7 +58,7 @@ body{
   font-size: 1.4rem;
 }
 
-#contact button{
+#contact input{
   background-color: #EC407A;
   border-radius: 15px;
   border: solid;
@@ -67,4 +67,31 @@ body{
   text-align: center;
   font-size: 16px;
   cursor: pointer;
+}
+
+#contact input:hover {
+  background-color: #ffffff;
+  color: #EC407A;
+}
+
+.alb{
+  color: #ffffff;
+}
+
+footer .insta .fa {
+  width: 27px;
+	height: 27px;
+
+  background-color:  #a52e2e;
+  border-radius: 2px;
+  color: #ffffff;
+  font-size: 35px;
+  text-align: center;
+	line-height: 27px;
+}
+
+footer .insta .fa:hover{
+  color: #a52e2e;
+  background-color: #ffffff;
+
 }
